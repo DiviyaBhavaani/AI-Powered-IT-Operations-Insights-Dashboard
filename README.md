@@ -9,7 +9,7 @@ This project demonstrates how to:
 - create executive style metrics and trend views
 - predict whether an incident is likely to breach SLA
 - surface operational bottlenecks by category, region, and team
-- generate concise AI-assisted summaries for decision support
+- generate concise AI assisted summaries for decision support
 
 ---
 

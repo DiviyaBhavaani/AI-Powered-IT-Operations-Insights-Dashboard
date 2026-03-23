@@ -1,17 +1,12 @@
-# AI-Powered IT Operations Insights Dashboard
+# AI Powered IT Operations Insights Dashboard
 
-A GitHub-ready portfolio project that simulates how a CIO Data & AI team could analyze enterprise incident operations data, predict SLA breach risk, and generate AI-assisted operational summaries.
-
-This repository is designed for **analyst / data / AI internship applications** and is safe to publish because it uses a **fully synthetic dataset**.
-
----
 
 ## Project objectives
 
 This project demonstrates how to:
 
-- clean and analyze incident-management data
-- create executive-style metrics and trend views
+- clean and analyze incident management data
+- create executive style metrics and trend views
 - predict whether an incident is likely to breach SLA
 - surface operational bottlenecks by category, region, and team
 - generate concise AI-assisted summaries for decision support
@@ -61,9 +56,6 @@ The dataset contains synthetic enterprise-style incidents with the following fie
 - alert count, backlog size, affected users
 - assignment delay, number of comments
 - SLA target and breach flag
-
-### Why synthetic?
-Using synthetic data makes the project publishable and interview-safe while still showing realistic analytics, SQL, dashboarding, and machine-learning workflows.
 
 ---
 

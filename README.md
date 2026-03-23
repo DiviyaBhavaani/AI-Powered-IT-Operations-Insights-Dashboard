@@ -172,16 +172,5 @@ This repo already includes:
 
 ---
 
-## Suggested resume entry
-
-**AI-Powered IT Operations Insights Dashboard** | Python, SQL, Streamlit, Scikit-learn, Plotly, SQLite  
-- Built a synthetic enterprise incident analytics platform to track SLA performance, backlog health, and operational trends across categories, regions, and support teams.  
-- Trained a machine-learning model to predict SLA breach risk using incident metadata, workload signals, and response-timing features; surfaced model metrics and key drivers in a dashboard.  
-- Added AI-assisted summaries to convert filtered incident data into business-friendly operational insights and actionable recommendations for decision makers.  
-
----
-
 ## Notes
-
-- This project is for portfolio and interview demonstration.
-- The data is synthetic and does **not** represent any real Kyndryl, client, or production environment.
+- The data is synthetic and does **not** represent any real client or production environment.

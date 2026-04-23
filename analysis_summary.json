@@ -1,0 +1,17 @@
+{
+  "total_incidents": 3500,
+  "open_incidents": 532,
+  "closed_incidents": 2968,
+  "overall_breach_rate": 0.4342857142857143,
+  "closed_breach_rate": 0.3335579514824798,
+  "avg_resolution_closed_hours": 30.660010107816714,
+  "median_resolution_closed_hours": 22.97,
+  "highest_breach_category": "Application",
+  "highest_breach_category_rate": 0.5473515248796148,
+  "lowest_breach_category": "Network",
+  "lowest_breach_category_rate": 0.1685185185185185,
+  "top_open_team": "SRE",
+  "top_open_team_count": 69,
+  "top_region_breach": "North America",
+  "top_region_breach_rate": 0.3445017182130584
+}
